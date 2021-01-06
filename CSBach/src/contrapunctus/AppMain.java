@@ -1,4 +1,4 @@
-package contrapunctus;
+package codes;
 
 import org.jfugue.*;
 
