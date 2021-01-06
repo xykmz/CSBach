@@ -1,4 +1,4 @@
-package contrapunctus;
+package codes;
 
 import static contrapunctus.Notes.*;
 import static contrapunctus.Probability.DOWN; // this imports static contrathingy
