@@ -10,7 +10,7 @@ import javax.management.RuntimeErrorException;
 // with the duration of the note, use the method in Melody.java to separate the
 // tone from the duration.
 //
-// We are assuming that everything we are dealing with is in the C key. FUCK YEAH!!!!
+// We are assuming that everything we are dealing with is in the C key.
 public class Notes {
 	// How many semitones are the intervals?
 	static final int MIN_SECOND = 1;
