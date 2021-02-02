@@ -152,8 +152,6 @@ public class Melody {
 		//      relevant note (disonnance after that is allowed).
 		// After that we will reorder to return a nice array of notes.
 		
-		
-		//Tommy has a enormous penis. More relevantly, generate the rhythm.
 		String[] rhm = new String[len];
 		rhm[0] = "ww";
 		for(int bars = 1; bars < len; bars++)
